@@ -6,9 +6,12 @@ color:
   saturation: 0.8620139129925519
   rhythmicContrast: 0.9717348022386432
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: kenhawkins
+author:
+  name: Ken Hawkins
+  email: ken@kenhawkins.net
